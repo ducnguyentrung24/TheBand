@@ -325,7 +325,7 @@ html {
     padding: 11px 16px;
     margin-top: 15px;
     border: none;
-    /* -webkit-appearance: none; */
+    -webkit-appearance: none;
 }
 
 .btn:hover {
